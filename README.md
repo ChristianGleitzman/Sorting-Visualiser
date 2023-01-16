@@ -7,11 +7,10 @@ A Python program that uses Pygame to visualize different sorting algorithms.
 - Pygame
 
 ## Supported Algorithms
-- bubble sort
-- insertion sort
-- selection sort
-- merge sort
-- quick sort
+- Bubble sort
+- Insertion sort
+- Merge sort
+- Quick sort
 
 ## Screenshots
 
