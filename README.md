@@ -16,8 +16,12 @@ A Python program that uses Pygame to visualize different sorting algorithms.
 
 ![screenshots]()
 
-## Note
-The sorting algorithm visualizer is for educational purposes only. It is not recommended for use in production environments as the algorithms used may not be the most efficient for large data sets.
+##Skills
+
+- Algorithm design and analysis: Sorting algorithms are a fundamental part of computer science, this required a good understanding of how different sorting algorithms work and their relative performance characteristics.
+- Event-driven programming: Pygame is an event-driven library, this required a good understanding of how to handle user input and other events.
+- 2D graphics programming: Pygame is a powerful tool for creating 2D graphics, this project required a good understanding of how to create and manipulate pygame shapes
+- Debugging and troubleshooting: As with any programming project, this project required debugging and troubleshooting skills to identify and fix any bugs or issues that arose.
 
 ## Possible Improvements
 
@@ -27,3 +31,6 @@ The sorting algorithm visualizer is for educational purposes only. It is not rec
 - Adding a feature that allows users to compare the performance of different sorting algorithms on the same data set.
 - Adding the ability to pause, rewind, and fast-forward the animation to study the sorting process in more detail.
 - Adding the ability to select the size of the data set to sort, so that the user can see how the performance of the algorithm changes as the data set grows.
+
+## Note
+The sorting algorithm visualizer is for educational purposes only. It is not recommended for use in production environments as the algorithms used may not be the most efficient for large data sets.
