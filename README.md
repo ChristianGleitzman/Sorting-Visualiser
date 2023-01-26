@@ -16,7 +16,7 @@ A Python program that uses Pygame to visualize different sorting algorithms.
 
 ![screenshots]()
 
-##Skills
+## Skills
 
 - Algorithm design and analysis: Sorting algorithms are a fundamental part of computer science, this required a good understanding of how different sorting algorithms work and their relative performance characteristics.
 - Event-driven programming: Pygame is an event-driven library, this required a good understanding of how to handle user input and other events.
