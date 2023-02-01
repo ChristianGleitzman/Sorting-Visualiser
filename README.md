@@ -14,7 +14,8 @@ A Python program that uses Pygame to visualize different sorting algorithms.
 
 ## Screenshots
 
-![screenshots]()
+![Unsorted Data Set](https://github.com/ChristianGleitzman/Sorting-Visualiser/blob/main/Unsorted.PNG)
+![Sorted Data Set](https://github.com/ChristianGleitzman/Sorting-Visualiser/blob/main/sorted.PNG)
 
 ## Skills
 
